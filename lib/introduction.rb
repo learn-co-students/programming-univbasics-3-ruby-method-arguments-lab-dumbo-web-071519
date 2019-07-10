@@ -1,0 +1,1 @@
+puts "hi, my name is #{name}"
